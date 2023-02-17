@@ -1,0 +1,120 @@
+Cau 1:Dau la mot thanh pho truc thuoc Trung Uong ?
+A.Ha Noi
+B.Lao Cai
+C.Phu Tho
+D.Nghe An
+1
+Cau 2:Logo hien tai cua cau lac bo bong da nao sau day co hinh con su tu ?
+A.Chelsea
+B.Arsenal
+C.Leverpool
+D.Manchester United
+1
+Cau 3:Trai Dat cach Mat Troi bao nhieu dam ?
+A.90 trieu
+B.39 trieu
+C.92 trieu
+D.100 trieu
+3
+Cau 4:Nhac si nao sang tac ca khuc "Cay dan sinh vien" ?
+A.Trinh Cong Son
+B.Cat Tuong
+C.Quoc An
+D.Tran Tien
+3
+Cau 5:Haiku la the tho truyen thong cua nuoc nao ?
+A.Han Quoc
+B.Viet Nam
+C.Nhat Ban
+D.My
+3
+Cau 6:Nhan vat chi Dau trong tac pham Tat den co ten that la gi ?
+A. Le Thi Dao
+B. Le Thi Mai
+C. Le Thi Lan
+D. Le Thi Xuan
+1
+Cau 7:Ten ngon thac Dambri hung vi cua nui rung Tay Nguyen co y nghia gi ?
+A.Doi cho
+B.Chung thuy
+C.Hi vong
+D.Vinh cuu
+1
+Cau 8:Cum tu "computer bug" bat nguon tu con con trung nao lam chap may tinh ?
+A.Sau buom
+B.Gian
+C.Bo canh cung
+D.Ruoi
+1
+Cau 9:Cau noi "Dau toi chua roi xuong dat, xin be ha dung lo" la cua ai ?
+A.Tran Thu Do
+B. Luu Co
+C.Chu Van An
+D.Pham Ngu Lao
+1
+Cau 10:Dan toc nao o Viet Nam con giu che do mau he ?
+A.Bana
+B.Cham
+C.Kinh
+D.Van Kieu
+1
+Cau 11:Khi CO rat doc do pha hoai thanh phan nao cua mau ?
+A.Bach cau
+B.Hong cau
+C.Tieu cau
+D.Huyet tuong
+2
+Cau 12:Trong Van Mieu Quoc Tu Giam hien nay co bao nhieu bia tien si ?
+A.80
+B.81
+C.82
+D.83
+3
+Cau 13:Vua nao da doi ten nuoc ta thanh Dai Co Viet ?
+A.Dinh Bo Linh
+B.Ly Cong Uan
+C.Ngo Quyen
+D.Quang Trung
+1
+Cau 14:Bo Luat dau tien o nuoc ta ra doi vao trieu dai nao ?
+A.Ly
+B.Tran
+C.Tien Le
+D.Hau Le
+1
+Cau 15:VDV Nguyen Thi Anh Vien dat bao nhieu huy chuong vang tai Sea Games 28 ?
+A.5 HCV
+B.6 HCV
+C.7 HCV
+D.8 HCV
+4
+Cau 16:AFC Asian Cup 2011 duoc to chuc tai quoc gia nao ?
+A.Qatar
+B.Hàn Quốc
+C.Nhật Bản
+D.Iraq
+1
+Cau 17:Doi nao len ngoi vo dich AFC Asian Cup 2011 ?
+A.Nhat Ban
+B.Viet Nam
+C.Han Quoc
+D.Uzbekistan
+1
+Cau 18:An Duong Vuong dat quoc hieu nuoc ta la gi?
+A.Au Lac
+B.Van Xuan
+C.Dai Co Viet
+D.Dai Viet
+1
+Cau 19:Giai Grand Slam dau tien trong nam la giai nao?
+A.Austrlia mo rong
+B.Wimbledon
+C.Roland Garos
+D.My mo rong
+1
+Cau 20:Trong cac cay cau sau , cau nao la cau xoay?
+A.Cau Thanh Tri
+B.Cau Thi Nai
+C.Cau Song Han
+D.Cau Can Tho
+3

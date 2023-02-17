@@ -1,0 +1,120 @@
+Cau 1:Loai chim nao sau day co the bat chuoc duoc tieng nguoi ?
+A.Chich Bong
+B.Hoa mi
+C.Qua
+D.Vet
+4
+Cau 2:Cho den nay, tu Tieng Viet nao chua duoc xuat hien trong tu dien tieng Anh Oxford ?
+A.Ao Dai
+B.Pho
+C.Banh My
+D.Nem
+4
+Cau 3:Thanh pho noi tieng voi 4 mua 1 ngay la ?
+A.Da nang
+B.Da lat
+C.Ha noi
+D.Hai phong
+2
+Cau 4:Trong cac cau chuyen co tich, phu thuy thuong di lai bang cach nao ?
+A.Cuoi tuan loc
+B.Cuoi choi
+C.Cuoi tham
+D.Cuoi may
+2
+Cau 5:Dau la mot loai dong vat co sung ?
+A.Huou
+B.Ca
+C.Ga
+D.Vit
+1
+Cau 6:Dau la mot loai dong vat o duoi nuoc ?
+A.Ca map
+B.Ga
+C.De
+D.Lon
+1
+Cau 7:Dau khong phai là loai dong vat co sung ?
+A.Su tu
+B.Te giac
+C.Linh duong
+D.Tuan loc
+1
+Cau 8:"Ba thuong con vi con giong me, me thuong con vi con giong …" ?
+A. Ong hang xom
+B. Chu canh nha
+C. Bac dau ngo
+D. Ba
+4
+Cau 9:Dau la ten mot loai mu ?
+A.Luoi hai
+B.Luoi trai
+C.Luoi le
+D.Luoi ran
+2
+Cau 10:Saturday trong tieng anh la thu may ?
+A.Thu ba
+B.Thu nam
+C.Thu bay
+D.Thu hai
+3
+Cau 11:Tim nguoi gom bao nhieu ngan ?
+A.2
+B.3
+C.4
+D.5
+1
+Cau 12:Nguoi ta dung khi nao de dap tat dam chay ?
+A.Khi cacbonic
+B.Khi sunfurd
+C.Khi oxit nito
+D.Khi oxi
+1
+Cau 13:Khu vuc Dong Nam A co bao nhieu quoc gia doc lap ?
+A.9
+B.10
+C.11
+D.12
+3
+Cau 14:To hop phim Ctrl + V trong MS Word duoc dung de lam gi ?
+A.Dong
+B.Mo
+C.Sao chep
+D.Dan
+4
+Cau 15:Bo nho truy cap ngau nhien trong may tinh duoc viet tat nhu the nao ?
+A.RAM
+B.ROM
+C.ROA
+D.RAO
+1
+Cau 16:Trong mon co vua, quan nao co nhieu cach di chuyen nhat ?
+A.Vua
+B.Xe
+C.Ma
+D.Hau
+4
+Cau 17:Dau la mot loai dan co o Tay Nguyen ?
+A.Soi
+B.Da
+C.Cat
+D.Dat
+2
+Cau 18:Hinh nao sau day khong co hai duong cheo cat nhau tai trung diem cua moi duong?
+A.Hinh thang can
+B.Hinh chu nhat
+C.Hinh binh hanh
+D.Hinh vuong
+1
+Cau 19:Nguoi ta thuong nau canh cua voi thu gi ?
+A. Cu cai
+B. Rau day
+C. Moc nhi
+D. Xup lo
+2
+Cau 20:Cong thuc hoa hoc cua da voi ?
+A.CaCO3
+B.BaCO3
+C.KCO3
+D.Ca(OH)2
+1

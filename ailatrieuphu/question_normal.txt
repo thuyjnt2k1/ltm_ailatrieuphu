@@ -1,0 +1,114 @@
+Cau 1:He thong do thi o Viet Nam duoc phan thanh may loai ?
+A.3
+B.4
+C.5
+D.6
+4
+Cau 2:Cong thuc hoa hoc cua Oxi gia la gi?
+A.O2
+B.O3
+C.H2O
+D.H2O2
+4
+Cau 3:Bo phim "Chi Dau" duoc chuyen the tu tac pham nao ?
+A.Nguoi me cam sung
+B.Vo chong A Phu
+C.Tat den
+D.Tuoi tho du doi
+3
+Cau 4:"Đại Ngu" la quoc hieu cua trieu dai nao ?
+A.Trieu ngo
+B.Trieu ho
+C.Cac chua Nguyen
+D.Nha Tay Son
+2
+Cau 5:"Albicelestes" biet danh doi tuyen bong da quoc gia nao ?
+A.Tay Ban Nha
+B.Viet Nam
+C.Thai Lan
+D.Argentinan
+4
+Cau 6:Tre em co bao nhieu chiec rang sua?
+A.16
+B.20
+C.24
+D.22
+2
+Cau 7:Bay chu lun trong truyen co tich "Nang Bach Tuyet va bay chu lun" lam nghe gi ?
+A.Tho ren
+B.Tho san
+C.Tho mo
+D.Tho may
+3
+Cau 8:Thang Long Ha Noi 1000 tuoi vao nam nao ?
+A.2010
+B.2001
+C.2020
+D.2002
+1
+Cau 9:Cacbon monooxit (CO) thuoc loai oxit nao?
+A.Oxit axit
+B.Oxit bazo
+C.Oxit trung tinh
+D.Oxit luong tinh
+3
+Cau 10:Nam 1954, nuoc ta ky hiep dinh nao voi Phap ?
+A.Hiep dinh so bo
+B.Hiep dinh Gio-ne-vo
+C.Hiep dinh Paris
+D.Hiep dinh tam uoc
+2
+Cau 11:Quoc gia nao dang cai World Cup 2018 ?
+A.My
+B.Phap
+C.Anh
+D.Nga
+2
+Cau 12:Viet Nam la thanh vien thu may cua to chuc Lien hop quoc ?
+A.140
+B.149
+C.148
+D.147
+2
+Cau 13:Bai hat "Em la hoa hong nho" do ai sang tac ?
+A.Trinh Cong Son
+B.Pham Trong Cau
+C.Pham Tuyen
+D.Nguyen Ngoc Thien
+1
+Cau 14:Trong than thoai Hy Lap, Uranus la vi than nao ?
+A.Than bien ca
+B.Than tinh yeu
+C.Than mat troi
+D.Than bau troi
+4
+Cau 15:San bay lon nhat phia Bac Viet Nam ?
+A.Cat Bi
+B.Quang Ninh
+C.Noi Bai
+D.Gia Lam
+3
+Cau 16:Dat nuoc nao la que huong cua ong gia tuyet ?
+A.Anh
+B.Phan Lan
+C.Phap
+D.My
+2
+Cau 17:Thanh nha Ho duoc UNESO cong nhan la di san van hoa the gioi nam o tinh nao?
+A.Ninh Binh
+B.Thanh Hoa
+C.Nghe An
+D.Ha Tinh
+2
+Cau 18:Phim hoat hinh dau tien duoc cong chieu vao thoi gian nao?
+A.27-9-1889
+B.17-6-1901
+C.28-10-1892
+D.1-9-1900
+3
+Cau 19:Cau lac bo bong da nao cua nuoc Anh co bieu tuong la chu ga choi?
+A.Everton
+B.Leicester City
+C.Leeds United
+D.Tottenham Hotspur
+4
